@@ -1,0 +1,6 @@
+{
+  "name": "Sakura Nexus",
+  "description": "日本全国を対象とした次世代デジタル国家インフラ級スーパーアプリ「Sakura Nexus」。交通（JR Next）、買い物（SakuraMart）、医療（Sakura Health）、スマート住宅（Sakura Living）、スマート移動（Sakura Drive）、デジタル財布（Sakura Wallet）を統合する総合生活・国家インフラプラットフォーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
